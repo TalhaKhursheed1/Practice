@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45186529845",
+    "project_id": "task-ded11",
+    "storage_bucket": "task-ded11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45186529845:android:929689a4546ee3b3fc8f7c",
+        "android_client_info": {
+          "package_name": "com.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45186529845-clee849he68o6grg1mclps37ic2vdtbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQufMtVWghc-dOxLbAs_bOVaqyERMFk1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45186529845-clee849he68o6grg1mclps37ic2vdtbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
