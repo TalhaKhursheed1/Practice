@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "45186529845",
-    "project_id": "task-ded11",
-    "storage_bucket": "task-ded11.firebasestorage.app"
+    "project_number": "292274493419",
+    "project_id": "chatapplication-ec65a",
+    "storage_bucket": "chatapplication-ec65a.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:45186529845:android:929689a4546ee3b3fc8f7c",
+        "mobilesdk_app_id": "1:292274493419:android:19c06d6065ed5044366bae",
         "android_client_info": {
           "package_name": "com.practice"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "45186529845-clee849he68o6grg1mclps37ic2vdtbp.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCQufMtVWghc-dOxLbAs_bOVaqyERMFk1w"
+          "current_key": "AIzaSyAcq--wR1-Ag6NhgHwXjVlSmr0cv3bNsZA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "45186529845-clee849he68o6grg1mclps37ic2vdtbp.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
